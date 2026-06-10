@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on football tournament web app https://turniej.betekipa.pl<br>🌱 I’m currently learning SASS, Node.js and MongoDB<br>💬 Ask me about React<br>📧 How to reach me bartosz.konior@icloud.com<br><br>
+🔭 I’m currently working on football tournament web app https://turniej.betekipa.pl<br>🌱 I’m currently learning TypeScript and Docker<br>💬 Ask me about React<br>📧 How to reach me bartosz.konior@icloud.com<br><br>
 
 
 ## 🌐 Socials:
